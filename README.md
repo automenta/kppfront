@@ -1,3 +1,3 @@
-implement a Sea-of-Nodes compiler for a language that blends the best of Kotlin and Cppfront
-parser, AST, and code generator, and everything else necessary
-follow test-driven development methodology
+# Implement a Sea-of-Nodes compiler for a language blending the best of Kotlin and Cppfront
+- all components and tools: parser, AST, and code generator, etc
+- follow test-driven development methodology
